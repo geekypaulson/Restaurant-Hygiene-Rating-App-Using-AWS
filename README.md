@@ -1,1 +1,1 @@
-# Restaurant-Hygiene-Rating-App_Using_AWS
+# Restaurant Hygiene Rating App Using AWS
